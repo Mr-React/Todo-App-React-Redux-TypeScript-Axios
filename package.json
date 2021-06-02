@@ -2,7 +2,7 @@
   "name": "react-ts-demo",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://uradk51xfc.execute-api.us-east-2.amazonaws.com/v1",
+  "proxy": "https://your_api_url.com",
   "dependencies": {
     "@reduxjs/toolkit": "^1.5.1",
     "@testing-library/jest-dom": "^5.12.0",
